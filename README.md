@@ -5,4 +5,4 @@ This project aims to analyze airline customer satisfaction data of the flights i
 
 The general approach followed through this Project is: Brainstorming for the pertinent data questions. Cleaning the data for irregularities and replacing missing information Identifying a set of relevant variables Finding relation between variables and to the satisfaction rating Creating prediction models to show performance of these variables Validating performance among different models Providing actionable insights after the analysis
 
-Here is the Report Link: https://docs.google.com/document/d/19XttV_XozKybWx_4Z_wGdDVYALQ_RaU4jjUDoJih
+Here is the Report Link: https://docs.google.com/document/d/19XttV_XozKybWx_4Z_wGdDVYALQ_RaU4jjUDoJihjz4/edit?usp=sharing
